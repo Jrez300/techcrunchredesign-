@@ -1,0 +1,111 @@
+.square__post h2 {
+    background-color: rgb(19, 146, 19);
+    padding: 5px;
+  }
+  
+  .square__post {
+    border: black;
+    max-width: 800px;
+    margin: auto;
+    box-shadow: 0 2px 4px 0 rgba(181,181,181,.7);
+    padding: 5px;
+    margin-top: 5%;
+    margin-bottom: -25%;
+    margin-left: 5%;
+  }
+
+  .article__post h2 {
+    background-color: rgb(19, 146, 19);
+    padding: 5px;
+  }
+  
+  .article__post{
+    border: black;
+    max-width: 800px;
+    margin: auto;
+    box-shadow: 0 2px 4px 0 rgba(181,181,181,.7);
+    padding: 10px;
+    margin-top: 5%;
+    margin-bottom: -25%;
+  }
+
+  .recent__section{
+    float: right;
+    margin-top: -281%;
+    margin-right: 5%;
+  }
+  
+  .recent__post {
+    background-color: rgb(19, 146, 19);
+    padding: 5px;
+  }
+  
+  .recent__title {
+    border-bottom: black solid;
+    max-width: 400px;
+  }
+  .commentname{
+    margin-bottom: 0px;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  .commentdescription{
+    margin: 0px;
+    font-style: italic;
+    margin-bottom: 5px;
+  }
+  .createcomment{
+    margin-top: 10spx;
+  }
+
+  @media screen and (max-width: 768px) {
+    .recent__section {
+      margin-top: 26%;
+      float: left;
+      margin-left: 10%;
+    }
+    .recent__post {
+    font-size: small;
+    }
+    
+    .recent__title {
+    font-size: small;
+    }
+  }
+
+  @media screen and (max-width: 375px) {
+    .recent__section {
+      float: left;
+      margin-left: 3%;
+      margin-bottom: -80%;
+      margin-top: 3%;
+    }
+    .recent__post {
+    font-size: xx-small;
+    }
+    
+    .recent__title {
+    font-size: xx-small;
+    }
+
+    .article__post img{
+      width: 100%;
+    }
+    .square__post img{
+      width: 100%;
+    }
+    .square__post {
+      border: black;
+      max-width: 700px;
+      margin: auto;
+      box-shadow: 0 2px 4px 0 rgba(181,181,181,.7);
+      padding: 5px;
+      margin-top: 5%;
+    }
+    .square__post h2 {
+      font-size: 1.3rem;
+    }
+    .square__post p {
+      font-size: .7rem;
+    }
+  }

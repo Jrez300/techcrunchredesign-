@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Why AWS built a no-code tool",
+        "img": "/img/AWSLogo.jpg",
+        "author":"Frederic Lardinois",
+        "date": "7:36 pm EDT•June 24, 2020",
+        "content":"AWS today launched Amazon Honeycode, a no-code environment built around a spreadsheet-like interface that is a bit of a detour for Amazon’s cloud service...",
+        "link": "/article1"
+    },
+    {
+        "id": 2,
+        "title": "New York City could have an e-scooter pilot program by March",
+        "img": "/img/scooterimage.jpg",
+        "author":"Kirsten Korosec",
+        "date": "6:41 pm EDT•June 24, 2020",
+        "content": "New York City is on the verge of approving a shared electric scooter pilot program, opening up a potentially lucrative market and new micromobility battleground in the United States...",
+        "link": "/article2"
+    },
+    {
+        "id": 3,
+        "title": "The Loupedeck CT is a fantastic, flexible editing console for Mac and PC",
+        "img": "/img/Loupedeck-CT-07.jpg",
+        "author":"Darrell Etherington",
+        "date": "5:17 pm EDT•June 24, 2020",
+        "content": "For photographers and videographers spending a lot less time on location and a lot more time at the desk right now, one great use of time is going back through archives and backlogs to find hidden gems, and honing those edit skills...",
+        "link": "/article3"
+    },
+    {
+        "id": 4,
+        "title": "Biased AI perpetuates racial injustice",
+        "img": "/img/GettyImages-508482219.jpg",
+        "author":"Miriam Vogel",
+        "date": "5:04 pm EDT•June 24, 2020",
+        "content": "The murder of George Floyd was shocking, but we know that his death was not unique...",
+        "link": "/article4"
+    },
+    {
+        "id": 5,
+        "title": "IPOs that could happen soon, cannot happen soon enough",
+        "img": "/img/someonewriting.png",
+        "author":"Alex Wilhelm",
+        "date": "4:45 pm EDT•June 24, 2020",
+        "content": "Earlier today we took a look at two companies that have filed to go public, nCino and GoHealth. The pair join Lemonade in a march toward the public markets...",
+        "link": "/article5"
+    },
+    {
+        "id": 6,
+        "title": "PACT Act takes on internet platform content rules with a scalpel rather than a jackhammer",
+        "img": "/img/united-states-capitol-two-tone.jpg",
+        "author":"Devin Coldewey",
+        "date": "06/24/2020",
+        "content": "The PACT Act is a new bipartisan effort to reform Section 230, the crucial liability shield that enables internet platforms to exist, approaching the law’s shortcomings “with a scalpel rather than a jackhammer,” as Senator Brian Schatz (D-HI) describes it...",
+        "link": "/article6"
+    },
+    {
+        "id": 7,
+        "title": "AWS launches Amazon Honeycode, a no-code mobile and web app builder",
+        "img": "/img/awsbuilding.jpg",
+        "author":"Frederic Lardinois",
+        "date": "4:12 pm EDT•June 24, 2020",
+        "content": "AWS  today announced the beta launch of Amazon Honeycode, a new, fully managed low-code/no-code development tool that aims to make it easy for anybody in a company to build their own applications...",
+        "link": "/article7"
+    },
+    {
+        "id": 8,
+        "title": "Sony will now pay researchers $50,000+ for critical PS4 bugs",
+        "img": "/img/ps4-20th-console-all.jpg",
+        "author":"Greg Kumparak",
+        "date": "4:02 pm EDT•June 24, 2020",
+        "content": "Think you’ve found a way to consistently brick someone’s PS4, or make it run code that it shouldn’t? Sony  wants to know — and now they’re willing to pay...",
+        "link": "/article8"
+    },
+    {
+        "id": 9,
+        "title": "Crypto Startup School: How to build companies by building communities",
+        "img": "/img/cryptoimage.jpg",
+        "author":"Zoran Basich",
+        "date": "3:00 pm EDT•June 10, 2020",
+        "content": "In week four of a16z’s Crypto Startup School, the spotlight shifts to building companies by growing communities of users, developers and employees in a decentralized context...",
+        "link": "/article9"
+    }
+]
