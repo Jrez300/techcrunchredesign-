@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 import data from "../data/post.json";
 import '../BlogPost/blogPost.css'
 
@@ -20,7 +20,7 @@ export default class CreateComments extends Component {
                 <p>{data.author}</p>
                 <p>{data.date}</p>
                 <p>{data.content}</p>
-                <Link to={data.link}><button type="button" onClick="refreshPage()">More info</button></Link>
+                <NavLink to={data.link}><button type="button" onClick="refreshPage()">More info</button></NavLink>
               </div>
             );
           })}
