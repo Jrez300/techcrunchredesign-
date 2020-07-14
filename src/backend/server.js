@@ -11,7 +11,7 @@ const mongoose = require('mongoose');
 const cors = require('cors');
 //add API endpoints with the schema created
 const commentRoutes = express.Router()
-const PORT = 4000;
+const PORT = process.env.PORT || 4000;
 
 let Comment = require('./comment.model')
 
