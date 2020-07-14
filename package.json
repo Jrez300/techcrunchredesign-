@@ -21,7 +21,7 @@
   },
   "scripts": {
     "backend": "node src/backend/server",
-    "start": "node server.js",
+    "start": "react-scripts start",
     "build": "npm run build",
     "install-client": "npm install",
     "heroku-postbuild":"npm run install client && npm run build",
