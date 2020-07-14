@@ -74,6 +74,10 @@ commentRoutes.route('/add').post(function (req, res) {
 //router will take control of requests starting with /comments path
 app.use('/comments', commentRoutes)
 
+if(process.env.NODE_ENV === 'production'){
+    app.use(express.static('/build'))
+}
+
 //server listening to port 4000
 app.listen(PORT, function () {
     console.log("Server is running on Port:" + PORT)
