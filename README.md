@@ -31,8 +31,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - [MongoDB](https://www.mongodb.com/)
 - [Mongoose](https://mongoosejs.com/docs/)
 
-
-
-## Author
+## Authors
+- Esau Augilar Osuna
+- Cody Gilliam
+- Jose Hernandez
+- Kelvin Melendez
 - Jose Perez
 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
