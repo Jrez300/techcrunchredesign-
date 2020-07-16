@@ -23,22 +23,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Built Using
 - [React](https://reactjs.org/)
-- [NodeJS](https://nodejs.org/en/)
-- [jwt](https://jwt.io/)
-- [bcrypt](https://www.npmjs.com/package/bcrypt)
-- [@hapi/joi](https://www.npmjs.com/package/@hapi/joi)
-- [Express](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/docs/)
 
-## Authors
-- Esau Augilar Osuna
-- Cody Gilliam
-- Jose Hernandez
-- Kelvin Melendez
+
+## Author
 - Jose Perez
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
